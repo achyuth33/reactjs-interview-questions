@@ -1,6 +1,6 @@
 # React Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star:if you like the project. Pull Request are highly appreciated. Follow me[@Achyuth](https://www.linkedin.com/in/achyuth-reddy-ar36 ) for technical updates.
 
 ---
 <div>
@@ -13,7 +13,7 @@ Learn to code and get hired with <a href="https://zerotomastery.io/?utm_source=g
 
 ---
 
-**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/sudheerj/javascript-interview-questions) for core javascript questions.
+**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/achyuth33) for core javascript questions.
 
 ## Downloading PDF/Epub formats
 
